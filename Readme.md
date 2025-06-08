@@ -92,7 +92,7 @@ Launch the admin dashboard by running:
 
 ```bash
 streamlit run admin.py
-
+``` 
 
 The admin panel will:
 
@@ -107,4 +107,10 @@ The admin panel will:
 This project is licensed under the MIT License.
 
 You are free to use, modify, and distribute this software for personal or commercial purposes. See the [LICENSE](LICENSE) file for full license details.
+
+## 🙋‍♂️ Contact
+
+For questions or feedback, reach out at:
+`vardhanharsh806@gmail.com` 
+
 
